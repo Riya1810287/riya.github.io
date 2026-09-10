@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://riyagupta.github.io/sitemap.xml
